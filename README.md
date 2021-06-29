@@ -1,4 +1,9 @@
 # -Dev-Jobs
+<p align="center">
+  <img src="https://media0.giphy.com/media/RiykPw9tgdOylwFgUe/giphy.gif">
+</p>
+
+participated in group session of
 
 > Day 4 of the FREE LIVE 5-Day Coding Bootcamp 🔥
 > Naz and Jessy are going to be building a SaaS Product using ES6 JavaScript 💰
@@ -10,8 +15,11 @@
 > and more...
 > Data.json: https://drive.google.com/drive/folder...
 
+### Built with:
 
-##  Built with html css javascript
+- html
+- css
+- javascript
 
 
 ## Links
